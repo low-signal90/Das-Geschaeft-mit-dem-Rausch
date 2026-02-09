@@ -1,5 +1,11 @@
-# Das-Geschaeft-mit-dem-Rausch
-Fortgeschrittenes, noch nicht abgeschlossenes Buchmanuskript.
+# Das Geschäft mit dem Rausch (Manuskript)
+
+Dieses Repository enthält ein fortgeschrittenes, aber noch nicht abgeschlossenes Buchmanuskript. Der Text ist als zusammenhängendes Werk konzipiert und befindet sich weiterhin in Entwicklung.
+Ein systematisches Quellen- und Literaturverzeichnis ist geplant und wird in späteren Fassungen ergänzt.
+
+## Lizenz
+Creative Commons Namensnennung – Nicht kommerziell – Keine Bearbeitung 4.0 International  
+(CC BY-NC-ND 4.0)
 
 Lizenzhinweis:
 Dieses Manuskript ist ein Arbeitsstand.
