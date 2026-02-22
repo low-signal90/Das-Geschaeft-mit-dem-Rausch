@@ -5,6 +5,8 @@ Ein systematisches Quellen- und Literaturverzeichnis ist geplant und wird in sp�
 
 Es handelt sich um die Version 1.0
 
+ANFRAGEN ZUM TEXT BITTE AN silent.harbor73@proton.me
+
 ## Lizenz
 Creative Commons Namensnennung – Nicht kommerziell – Keine Bearbeitung 4.0 International  
 (CC BY-NC-ND 4.0)
